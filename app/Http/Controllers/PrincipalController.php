@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 class PrincipalController extends Controller
 {
-    public function Principal() {
-        echo "Olá, Seja bem vindo!";
+    public function principal() {
+        echo 'Olá, Seja bem vindo!';
     }
 }
