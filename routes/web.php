@@ -18,3 +18,4 @@ Route::get('/', 'PrincipalController@principal');
 Route::get('/Sobre-nos', 'SobreNosController@sobrenos');
 
 Route::get('/Contato', 'ContatoController@contato');
+
